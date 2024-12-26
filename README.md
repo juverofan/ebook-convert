@@ -7,10 +7,7 @@
 options:
 <br>
   -h, --help            show this help message and exit<br>
-  -d DIRECTORY, --directory DIRECTORY<br>
-                        input directory<br>
-  -o OUTPUT, --output OUTPUT<br>
-                        output directory<br>
-  -t EXT, --ext EXT     input extension, default: PDF<br>
-  -f FORMAT, --format FORMAT<br>
-                        output format, default: EPUB<br>
+  -d DIRECTORY, --directory DIRECTORY <i>input directory</i><br>
+  -o OUTPUT, --output OUTPUT <i>output directory</i><br>
+  -t EXT, --ext EXT     <i>input extension, default: PDF</i><br>
+  -f FORMAT, --format FORMAT  <i>output format, default: EPUB</i><br>
