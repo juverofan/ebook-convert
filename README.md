@@ -1,5 +1,7 @@
 # ebook-convert
 <br>
+Please install calibre first.
+<br>
 <b>usage:</b> <i>python ebook-convert.py [-h] [-d DIRECTORY] [-o OUTPUT] [-t EXT] [-f FORMAT]</i>
 <br>
 <b>Convert PDF/HTML to EPUB/MOBI</b>
